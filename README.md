@@ -2,7 +2,7 @@
 
 There is the land where I share toys and take a break.
 
-I'm learning building tools and AST recently.
+An average programmer trying to solve problems.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
