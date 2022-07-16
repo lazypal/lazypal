@@ -8,8 +8,8 @@ An average programmer trying to solve problems.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohcodes&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazypal&layout=compact&hide=css,html)
 
-![Roh's github stats](https://github-readme-stats.vercel.app/api?username=rohcodes&count_private=true&show_icons=true&theme=light)
+![Roh's github stats](https://github-readme-stats.vercel.app/api?username=lazypal&count_private=true&show_icons=true&theme=light)
 
 </details>
